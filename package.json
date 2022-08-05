@@ -1,0 +1,23 @@
+{
+  "name": "typescript-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clinton-lynx/typescript-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clinton-lynx/typescript-todo/issues"
+  },
+  "homepage": "https://github.com/clinton-lynx/typescript-todo#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
